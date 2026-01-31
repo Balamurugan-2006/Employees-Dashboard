@@ -1,6 +1,7 @@
 [
-  { "id":"E23AI034", "name": "Sandhiya", "dept": "AIDS", "salary": 45000, "active": true},
-  { "id":"E23CS031" , "name": "Preethika", "dept": "CSE", "salary": 55000, "active": true },
-  { "id":"E23IT016" , "name": "Praveena", "dept": "IT", "salary": 50000, "active": true },
-  { "id":"E23IT047" , "name": "Sandhiya", "dept": "IT", "salary": 35000, "active": true }
+  { "id":"My001", "name": "Gokul", "dept": "CEO", "salary": 45000, "active": true},
+  { "id":"My002" , "name": "Balamurugan", "dept": "Manager", "salary": 55000, "active": true },
+  { "id":"My003" , "name": "Murugan", "dept": "Executive Decreacter", "salary": 50000, "active": false },
+  { "id":"My004" , "name": "Chandru", "dept": "Product Manager", "salary": 35000, "active": true }
+
 ]
