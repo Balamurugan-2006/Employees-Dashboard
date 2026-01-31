@@ -1,0 +1,6 @@
+[
+  { "id":"E23AI034", "name": "Sandhiya", "dept": "AIDS", "salary": 45000, "active": true},
+  { "id":"E23CS031" , "name": "Preethika", "dept": "CSE", "salary": 55000, "active": true },
+  { "id":"E23IT016" , "name": "Praveena", "dept": "IT", "salary": 50000, "active": true },
+  { "id":"E23IT047" , "name": "Sandhiya", "dept": "IT", "salary": 35000, "active": true }
+]

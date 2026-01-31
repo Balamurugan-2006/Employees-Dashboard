@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Employee Dashboard</title>
+  <link rel="stylesheet" href="work.css">
+</head>
+<body>
+  <div class="samsung">            
+    
+  <h2>Employee Dashboard</h2>
+
+  <div class="container">
+    <div>
+      <button onclick="loadEmployees()">Load Employees</button>
+      <button onclick="addBonus()">Add Bonus</button>
+      <button onclick="filterActive()">Filter Active</button>
+      <button onclick="calculateDeptTotals()">Dept Totals</button>
+    </div>
+
+    <div class="grid">
+      <div>
+        <h3>Before (Original JSON)</h3>
+        <pre id="before"></pre>
+      </div>
+      <div>
+        <h3>After (Updated JSON)</h3>
+        <pre id="after"></pre>
+      </div>
+    </div>
+  </div>
+
+  <script src="work.js"></script>
+  </div>
+</body>
+</html>
